@@ -64,4 +64,3 @@ Thanks to **Indian Data Club**, **Codebasics**, and **Databricks** for creating 
 ---
 
 ⭐ Feel free to explore the notebooks and reach out with feedback or suggestions!
-# Databricks-14-days-AI-Challenge

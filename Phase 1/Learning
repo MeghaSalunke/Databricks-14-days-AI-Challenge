@@ -1,1 +1,20 @@
+## Phase 1 – Learning Overview
+
+Phase 1 of the Databricks 14 Days AI Challenge focused on building a **strong foundation in data engineering and analytics** using Databricks.  
+The emphasis was on understanding how data is ingested, transformed, governed, and optimized at scale using real-world practices.
+
+During this phase, I worked extensively with **Apache Spark and Delta Lake** to design reliable data pipelines following the **Medallion Architecture (Bronze, Silver, Gold)**. I learned how raw data moves through cleaning, validation, and aggregation layers to become analytics-ready.
+
+### Key Learnings
+
+- Data ingestion and transformation using **PySpark**
+- Delta Lake fundamentals: ACID transactions, Time Travel, MERGE, and schema enforcement
+- Designing scalable pipelines with **Bronze, Silver, and Gold layers**
+- Performance optimization using partitioning, OPTIMIZE, and Z-ORDER
+- Workflow orchestration using **Databricks Jobs and multi-task workflows**
+- Data governance concepts including **Unity Catalog, access control, and lineage**
+- Analytical querying and dashboard creation using **Databricks SQL**
+
+Overall, Phase 1 helped me understand how to build **production-grade, scalable, and governed data pipelines**, laying a solid base for advanced analytics and machine learning in the next phase.
+
 
